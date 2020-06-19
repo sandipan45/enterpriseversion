@@ -13,8 +13,12 @@
     "gatsby-plugin-sharp": "^2.6.11",
     "gatsby-source-filesystem": "^2.3.11",
     "gatsby-transformer-sharp": "^2.5.5",
+    "get-res": "^3.0.0",
+    "jquery": "^3.5.1",
+    "os-information": "^1.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
+    "react-device-detect": "^1.13.1",
     "react-dom": "^16.12.0",
     "react-helmet": "^6.1.0"
   },
